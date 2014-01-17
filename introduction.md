@@ -1,9 +1,9 @@
-# Introduction
+# Introdución
 
-- [Where To Start](#where-to-start)
-- [Laravel Philosophy](#laravel-philosophy)
-- [Additional Resources](#additional-resources)
-- [Development Team](#development-team)
+- [¿Por dónde comenzar?](#where-to-start)
+- [Filosofía de Laravel](#laravel-philosophy)
+- [Enlaces adicionales](#additional-resources)
+- [Equipo de desarrollo](#development-team)
 
 <a name="where-to-start"></a>
 ## Where To Start
