@@ -1,12 +1,12 @@
-# Introduction
+# Introducción
 
-- [Where To Start](#where-to-start)
-- [Laravel Philosophy](#laravel-philosophy)
+- [¿Por dónde empezar?](#where-to-start)
+- [Filosofía de Laravel](#laravel-philosophy)
 - [Additional Resources](#additional-resources)
 - [Development Team](#development-team)
 
 <a name="where-to-start"></a>
-## Where To Start
+## ¿Por dónde empezar?
 
 Learning a new framework can be daunting, but it's also exciting. To smooth your transition, we've attempted to create very clear, concise documentation for Laravel. Here are some recommendations for what to read first:
 
@@ -19,7 +19,7 @@ Learning a new framework can be daunting, but it's also exciting. To smooth your
 After reading through these documents, you should have a good grasp on basic request / response handling in Laravel. Next, you may wish to read about [configuring your database](/docs/database), the [fluent query builder](/docs/queries), and the [Eloquent ORM](/docs/eloquent). Or, you may wish to read about [authentication and security](/docs/security) so you can start signing people into your application.
 
 <a name="laravel-philosophy"></a>
-## Laravel Philosophy
+## Filosofía de Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
 
