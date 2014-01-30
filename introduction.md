@@ -1,4 +1,4 @@
-# Introdución
+# Introducción
 
 - [¿Por dónde comenzar?](#where-to-start)
 - [Filosofía de Laravel](#laravel-philosophy)
