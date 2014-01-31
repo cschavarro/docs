@@ -1,4 +1,4 @@
-# Introducción
+# Introduction
 
 - [Laravel Philosophy](#laravel-philosophy)
 - [Learning Laravel](#learning-laravel)
